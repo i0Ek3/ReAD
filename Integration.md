@@ -216,7 +216,7 @@ cd /path/to/your-target-project
 git init
 
 # Add ReAD Framework as submodule
-git submodule add https://github.com/your-username/ReAD.git src/libs/ReAD
+git submodule add https://github.com/i0Ek3/ReAD.git src/libs/ReAD
 ```
 
 ### Step 2: Install Dependencies
