@@ -2,7 +2,11 @@
 
 
 
-![](https://github.com/i0Ek3/ReAD/blob/main/assets/images/read.jpg)
+```markdown
+| Horizontal Layout | Vertical Layout |
+|---------------------------------------|-----------------------------------|
+| ![Horizontal Layout](https://github.com/i0Ek3/ReAD/blob/main/assets/images/h.jpg) | ![Vertical Layout](https://example.com/v.jpg) |
+```
 
 
 
