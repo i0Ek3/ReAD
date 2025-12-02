@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Dependency Lock Files
+package-lock.json
+yarn.lock
+
+# Environment Variables
+.env*
+
+# Log Files
+*.log*
+
+# OS-Generated Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Editor/IDE Configuration Files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build Output
+dist/
+build/
