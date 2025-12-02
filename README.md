@@ -1,12 +1,8 @@
 # ReAD - Redesign Advertisement Experience
 
-
-
-```markdown
-| Horizontal Layout | Vertical Layout |
-|---------------------------------------|-----------------------------------|
-| ![Horizontal Layout](https://github.com/i0Ek3/ReAD/blob/main/assets/images/h.jpg) | ![Vertical Layout](https://example.com/v.jpg) |
-```
+| Horizontal Layout                                            | Vertical Layout                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Horizontal Layout](https://github.com/i0Ek3/ReAD/blob/main/assets/images/h.jpg) | ![Vertical Layout](https://github.com/i0Ek3/ReAD/blob/main/assets/images/v.jpg) |
 
 
 
